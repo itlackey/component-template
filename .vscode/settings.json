@@ -1,0 +1,8 @@
+{
+    "eslint.enable": true,
+    "eslint.autoFixOnSave": true,
+    "cSpell.words": [
+        "readonly",
+        "sunrisetours"
+    ]
+}
